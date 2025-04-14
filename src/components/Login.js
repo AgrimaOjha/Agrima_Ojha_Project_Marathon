@@ -26,13 +26,13 @@ function Login(){
           <input className="check" type="checkbox" value="yes" />
           Remember me
         </label>
-        Forgot Password?
+        <a href="https">Forgot Password?</a>
       </div>
       <button className="btn">Log in</button>
       <hr></hr>
       <footer>
         <span>
-          Dont have an account? Sign Up
+          Dont have an account? <a href="https">Sign Up</a>
         </span>
       </footer>
     </div>
